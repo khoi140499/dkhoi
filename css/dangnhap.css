@@ -1,0 +1,173 @@
+.header{
+	width: 100%;
+	height: 720px;
+	padding-top: 165px;
+}
+.nen{
+	width: 1000px;
+	height: 400px;
+	margin: auto;
+}
+.nen img{
+	position: absolute;
+	box-shadow: 0 0 9px 3px #00000096;
+}
+.login{
+	position: absolute;
+	width: 400px;
+	height: 520px;
+	background: white;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-top: 40px;
+	transition: 0.6s;
+}
+.login_mat{
+	transition: 0.6s;
+	transform: translateY(-520px);
+}
+.login_hien{
+	transform: translateY(0px);
+}
+#text{
+	margin-left: 35px;
+	margin-top: 50px;
+	font-size: 1.8vw;
+	font-weight: bolder;
+}
+#text1{
+	margin-left: 35px;
+	margin-top: 7px;
+	font-size: 1.8vw;
+	font-weight: bolder;
+}
+.form-controll{
+	width: 330px;
+	margin-left: 35px;
+	height: 45px;
+	margin-top: 18px;
+}
+.login button{
+	margin-left: 224px;
+	width: 140px;
+	height: 45px;
+	background: #222222;
+	margin-top: 20px;
+}
+#qmk a{
+	text-decoration: none;
+	color: #439C43;
+}
+#qmk a:hover{
+	text-decoration: none;
+	color: #222222;
+}
+#qmk{
+	margin-left: 35px;
+	margin-top: 32px;
+	position: absolute;
+}
+.backtohome{
+	color: #222222;
+	font-size: 1vw;
+	margin-left: 35px;
+}
+.backtohome1{
+	color: #222222;
+	font-size: 1vw;
+	margin-left: 35px;
+	margin-top: -20px;
+	float: left;
+}
+.logup{
+	position: absolute;
+	width: 400px;
+	height: 520px;
+	background: white;
+	padding-top: 30px;
+	transition: 0.6s;
+	transform: translateY(520px);
+}
+.logup_hien{
+	transform: translateY(0px);
+}
+.logup_mat{
+	transform: translateY(520px);
+}
+.ai{
+	width: 130px;
+	height: 40px;
+	margin-left: 135px;
+	margin-top: 10px;
+	background: #222222;
+}
+.ml{
+	position: absolute;
+	width: 400px;
+	height: 520px;
+	background: yellow;
+	margin-top: -61px;
+	margin-left: 50px;
+	box-sizing: border-box;
+	overflow: hidden;
+	box-shadow: 0 0 15px 9px #00000096;
+}
+.text_All{
+	width: 250px;
+	height: 300px;
+	margin-left: 750px;
+	margin-top: 50px;
+	transition: 0.6s;
+	box-sizing: border-box;
+	overflow: hidden;
+	position: absolute;
+}
+.dangki{
+	position: absolute;
+	transition: 0.6s;
+	width: 250px;
+	height: 300px;
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.dangki_mat{
+	transform: translateX(300px);
+}
+#dangki_txt{
+	font-size: 1.8vw;
+	font-weight: bolder;
+	color: white;
+}
+.dangki button{
+	width: 150px;
+	height: 35px;
+	border-radius: 6px;
+	border:0.5px;
+	background: #222222;
+	margin-top: 15px;
+}
+.dangki1{
+	position: absolute;
+	transition: 0.6s;
+	width: 250px;
+	height: 300px;
+	padding-top: 50px;
+	padding-left: 40px;
+	transform: translateX(-300px);
+}
+.dangki1_hien{
+	transform: translateX(0px);
+}
+#dangki_txt1{
+	font-size: 1.8vw;
+	font-weight: bolder;
+	color: white;
+}
+.dangki1 button{
+	width: 150px;
+	height: 35px;
+	border-radius: 6px;
+	border:0.5px;
+	background: #222222;
+	margin-top: 15px;
+}

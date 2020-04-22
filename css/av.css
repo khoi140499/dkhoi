@@ -1,0 +1,101 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+.text_header{
+	position: absolute;
+	margin-top: -270px;
+}
+.text_header span{
+	font-size: 1vw;
+	margin-left: 350px;
+}
+.text_header b{
+	font-size: 3.4vw;
+	margin-left: 260px;
+}
+.text_header button{
+	margin-left: 420px;
+}
+.sp{
+	float: left;
+	width: 100%;
+	height: 1100px;
+	margin-top: 90px;
+}
+.sp_left{
+	float: left;
+	width: 300px;
+	height: 1000px;
+}
+.sp_center{
+	float: left;
+	width: 790px;
+	height: 1000px;
+	margin-left: 50px;
+}
+.search-container{
+	margin-top: 10px;
+	width: 350px;
+	height: 40px;
+}
+.search-container input{
+	width: 265px;
+	height: 30px;
+	border-radius: 2%;
+	border: 1px solid #222222;
+}
+.search-container button{
+	width: 30px;
+	height: 30px;
+	border: 0px;
+}
+.butn{
+	margin-left: 110px;
+}
+.best_sel{
+	width: 300px;
+	height: 640px;
+	margin-top: 30px;
+}
+.best_sel img{
+	width: 150px;
+}
+.best_sel span{
+	font-size: 1.5vw;
+}
+.sort{
+	width: 790px;
+	height: 30px;
+	margin-top: 10px;
+}
+.sort_left{
+	float: left;
+	color: #9F9B99;
+	font-size: 1vw;
+	margin-top: 5px;
+}
+.sort_right{
+	float: right;
+}
+.sort_right select{
+	width: 180px;
+	height: 30px;
+	border-radius: 3%;
+	border: 1px solid #9F9B99;
+}
+.sp_main{
+	width: 790px;
+	height: 900px;
+	padding-left: 20px;
+}
+.next_page{
+	float: left;
+	width: 740px;
+	height: 40px;
+	margin-top: 10px;
+	padding-left: 300px;
+}
+.next_page button{
+	margin-right: 10px;
+}

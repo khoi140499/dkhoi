@@ -1,0 +1,125 @@
+.lienhe{
+	float: left;
+	width: 100%;
+	height: 300px;
+}
+.lh1{
+	float: left;
+	width: 275px;
+	height: 300px;
+	margin-left: 40px;
+}
+.lh2{
+	float: left;
+	width: 275px;
+	height: 300px;
+}
+.lh3{
+	float: left;
+	width: 275px;
+	height: 300px;
+}
+.lh4{
+	float: left;
+	width: 275px;
+	height: 300px;
+}
+.lh_text{
+	color: #222222;
+	width: 275px;
+	height: 40px;
+	font-size: 17px;
+	margin-top: 20px;
+}
+.mau{
+	width: 100px;
+	height: 2px;
+	background: red;
+}
+.lh_main{
+	width: 275px;
+	margin-top: 10px;
+}
+.lh_main a{
+	text-decoration: none;
+	color: #222222;
+}
+.lh_main a:hover{
+	color: #8D8D8D;
+}
+.chinh{
+	margin-top: 30px;
+}
+.lh_main1{
+	width: 275px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.lh_main1 a{
+	text-decoration: none;
+	color: #222222;
+}
+#fb:hover{
+	color: blue;
+}
+#fb{
+	font-size: 20px;
+}
+#yt:hover{
+	color: red;
+}
+#yt{
+	font-size: 20px;
+}
+#ig:hover{
+	color: red;
+}
+#ig{
+	font-size: 20px;
+}
+.end{
+	float: left;
+	width: 100%;
+	height: 68px;
+	background: #222222;
+}
+.trai{
+	float: left;
+	color: #8D8D8D;
+	padding-top: 5px;
+}
+.phai{
+	float: right;
+}
+.phai img{
+	width: 100px;
+}
+.e_bottom{
+	float: left;
+	width: 100%;
+	height: 100px;
+	background: #222222;
+}
+.e_trai{
+	float: left;
+	margin-top: 25px;
+	width: 400px;
+}
+.e_trai span{
+	color: #8D8D8D;
+	font-size: 30px;
+}
+.mail{
+	width: 400px;
+	height: 40px;
+}
+.e_phai{
+	float: left;
+	margin-top: 25px;
+	margin-left: 140px;
+	width: 600px;
+}
+.bu1{
+	width: 90px;
+	height: 40px;
+}

@@ -1,0 +1,71 @@
+.sp2:hover .sp_info{
+	transition: 0.6s;
+	transform: translateY(-50px);
+}
+.sp2:hover a{
+	transition: 0.6s;
+	transform: translateY(-50px);
+}
+.sp2:hover #mo{
+	display: flex;
+	transition: 0.6s;
+}
+.sp_info{
+	width: 225px;
+	height: 50px;
+	background: white;
+	transition: 0.6s;
+}
+.sp2{
+	float: left;
+	width: 225px;
+	height: 300px;
+	overflow: hidden;
+	box-sizing: border-box;
+	transition: 0.6s;
+	margin: 15px;
+}
+#chu{
+	padding-top: 6px;
+	margin-left: 5px;
+	color: #022D33;
+}
+#mo{
+	margin-left: 165px;
+	margin-top: -22px;
+	display: flex;
+}
+#cart_p a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #022D33;
+}
+#cart_p a:hover{
+	color: #339AF0;
+}
+#heart_p a{
+	text-decoration: none;
+	font-size: 15px;
+	color: #222222;
+	padding-left: 10px;
+}
+#heart_p a:hover{
+	color: red;
+}
+.sp2 a{
+	text-decoration: none;
+	color: #222222;
+	font-size: 16px;
+	display: flex;
+	transition: 0.6s;
+}
+.cart_mo{
+	position: absolute;
+	width: 225px;
+	height: 300px;
+	margin-top: -50px;
+	display: flex;
+}
+.cart_mo{
+	color: #9F3BFF
+}

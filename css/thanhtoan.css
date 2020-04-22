@@ -1,0 +1,158 @@
+.main_tt{
+	width: 100%;
+	height: 920px;
+	background: #F0F0F0;
+	float: left;
+}
+.giohang{
+	width: 600px;
+	height: 820px;
+	margin: auto;
+	margin-top: 50px;
+	background: white;
+}
+.giohang_header{
+	float: left;
+	font-size: 1.2vw;
+	margin-left: 20px;
+	margin-top: 10px;
+	width: 700px;
+	height: 40px;
+}
+.giohang_sp{
+	width: 600px;
+	height: 134px;
+	float: left;
+	border-bottom: 1px solid #F5F5F5;
+}
+.gh_img{
+	float: left;
+	width: 100px;
+	height: 134px;
+	margin-left: 21px;
+}
+.gh_img img{
+	width: 100px;
+}
+.gh_txt{
+	float: left;
+	width: 300px;
+	height: 134px;
+	font-size: 1.1vw;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.gh_chon{
+	margin-top: 5px; 
+}
+.gh_tt{
+	float: left;
+	width: 600px;
+	height: 70px;
+	margin-top: 10px;
+	border-bottom: 1px solid #222222;
+}
+.gh_trai{
+	float: left;
+	padding-left: 22px;
+}
+.gh_phai{
+	float: right;
+	margin-right: 23px;
+}
+#magiamgia a{
+	text-decoration: none;
+	color: #022D33;
+}
+#magiamgia a:hover{
+	color: #222222;
+}
+#magiamgia{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 438px;
+}
+.gh_thongtin{
+	width: 600px;
+	height: 560px;
+	float: left;
+	padding-top: 10px;
+}
+.radio-inline{
+	margin-left: 28px;
+}
+.row{
+	margin-top: 10px;
+}
+.col-xs-5{
+	margin-left: 28px;
+}
+.col-xs-11{
+	margin-top: 10px;
+	margin-left: 28px;
+}
+.row1{
+	width: 550px;
+	height: 260px;
+	background: #EFEFEF;
+	margin-left: 28px;
+	margin-top: 15px;
+}
+.row1::before{
+	content: "";
+	content: "";
+	position: absolute;
+	border: 12px rgba(225, 215, 0, 0) solid;
+	border-bottom-color: #EFEFEF;
+	position: absolute;
+	margin-top: -24px;
+	margin-left: 50px;
+}
+.pl{
+	width: 250px;
+	height: 32px;
+	float: left;
+	margin-left: 17px;
+	margin-top: 17px;
+	border-radius: 5px;
+	color: #288AD6;
+}
+.p1{
+	width: 250px;
+	height: 32px;
+	float: left;
+	margin-left: 17px;
+	margin-top: 17px;
+	border-radius: 5px;
+	color: #222222;
+	border: 0px;
+}
+.p2{
+	color: red;
+	margin-left: 17px;
+	margin-top: 10px;
+	float: left;
+}
+.tt_tuychon{
+	float: left;
+	width: 600px;
+	margin-left: 17px;
+	margin-top: 7px;
+}
+.tt_tuychon label{
+	font-weight: 100;
+}
+.tt_text{
+	float: left;
+	margin-left: 28px;
+	width: 600px;
+}
+.bn{
+	float: left;
+	margin-left: 200px;
+	margin-top: 40px;
+}
+.bn button{
+	width: 150px;
+
+}

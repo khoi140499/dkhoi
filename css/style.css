@@ -1,0 +1,119 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+.sp_gt{
+	float: left;
+	width: 100%;
+	height: 639px;
+	background: #222222;
+}
+.contai{
+	width: 1201px;
+	height: 646px;
+	margin: auto;
+	margin-top: -14px;
+}
+.sp_trai{
+	float: left;
+	width: 600px;
+	height: 643px;
+}
+.sp_phai{
+	float: left;
+	width: 600px;
+	height: 646px;
+}
+.sp_tren{
+	width: 600px;
+	height: 340px;
+}
+.sp_duoi{
+	margin-top: -1px;
+	width: 600px;
+	height: 300px;
+}
+.spnoibat{
+	float: left;
+	width: 100%;
+	height: 800px;
+}
+.sp_txt{
+	width: 100%;
+	height: 40px;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 16px;
+}
+.sp_txt hr{
+	width: 350px;
+	border-style: inset;
+}
+.sp_page1{
+	float: left;
+	width: 1200px;
+	height: 310px;
+	margin-top: 50px;
+	padding-left: 13px;
+}
+.sp_page2{
+	float: left;
+	width: 1200px;
+	height: 340px;
+	margin-top: 18px;
+	padding-left: 13px;
+}
+.sp_link{
+	float: left;
+	width: 100%;
+	height: 25px;
+	text-align: center;
+}
+.sp_link a{
+	text-decoration: none;
+	color: #222222;
+	font-size: 18px;
+}
+.sp_link hr{
+	width: 130px;
+	border-style: inset;
+	margin-top: -2px;
+}
+.sp_link:hover a{
+	color: #564EFF;
+}
+.quan_nb{
+	float: left;
+	width: 100%;
+	height: 640px;
+	background: #222222;
+}
+.quan_all{
+	float: left;
+	width: 100%;
+	height: 800px;
+}
+.phukien_noibat{
+	float: left;
+	width: 100%;
+	height: 640px;
+	background: #222222;
+}
+.phukien_all{
+	float: left;
+	width: 100%;
+	height: 800px;
+}
+.hotro{
+	position: fixed;
+	width: 200px auto;
+	height: 20px;
+	background: red;
+	z-index: 3;
+	margin-left: 1300px;
+	margin-top: 500px;
+}
+.htn{
+	margin-left: 26px;
+
+}
